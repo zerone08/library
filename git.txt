@@ -1,0 +1,2 @@
+git_project_name:ysproject0
+https:https://ysproject0.backlog.com/git/LIBRARY/library_git.git
